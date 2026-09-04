@@ -10,3 +10,5 @@ SELECT * FROM professor;
 INSERT INTO professor(nome, email, cpf) VALUES ('Iago Fernando Ryan Drumond', 'antonieta12@gmail', '123');
 
 SELECT * FROM professor;
+
+SELECT * FROM professor;
